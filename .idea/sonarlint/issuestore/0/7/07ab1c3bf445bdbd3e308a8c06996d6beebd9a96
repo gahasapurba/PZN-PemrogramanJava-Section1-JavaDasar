@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8ν”¶1
+Y
+java:S1854
+"<Remove this useless assignment to local variable "iniByte2".(ατ†8–ν”¶1
+\
+java:S1854":Remove this useless assignment to local variable "iniInt".(ζΖΐωÿÿÿÿ8ν”¶1
+M
+java:S1481"+Remove this unused "iniInt" local variable.(ζΖΐωÿÿÿÿ8›ν”¶1
+J
+java:S1481
+"-Remove this unused "iniByte2" local variable.(ατ†8ν”¶1

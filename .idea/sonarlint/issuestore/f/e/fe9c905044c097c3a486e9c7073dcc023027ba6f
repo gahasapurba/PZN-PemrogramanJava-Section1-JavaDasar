@@ -1,0 +1,23 @@
+
+7
+java:S1220""Move this file to a named package.8³àó¶1
+\
+java:S1854"?Remove this useless assignment to local variable "application".(Êš´8¼àó¶1
+^
+java:S1854"<Remove this useless assignment to local variable "lastName".(²¢Ÿ üÿÿÿÿ8¾àó¶1
+`
+java:S1854">Remove this useless assignment to local variable "middleName".(…•òÍûÿÿÿÿ8Ààó¶1
+Z
+java:S1854"=Remove this useless assignment to local variable "firstName".(Š´Š³8Âàó¶1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8Åàó¶1
+G	java:S106"+Replace this use of System.out by a logger.(ôÌ¿ò8Çàó¶1
+G	java:S106"+Replace this use of System.out by a logger.(··Ûë8Éàó¶1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8Ëàó¶1
+K
+java:S1481".Remove this unused "firstName" local variable.(Š´Š³8Íàó¶1
+Q
+java:S1481"/Remove this unused "middleName" local variable.(…•òÍûÿÿÿÿ8Ïàó¶1
+O
+java:S1481"-Remove this unused "lastName" local variable.(²¢Ÿ üÿÿÿÿ8Ñàó¶1
+M
+java:S1481"0Remove this unused "application" local variable.(Êš´8Óàó¶1
