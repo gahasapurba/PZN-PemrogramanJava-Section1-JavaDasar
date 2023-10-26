@@ -1,0 +1,30 @@
+
+7
+java:S1220""Move this file to a named package.8Àú«¥¶1
+W
+java:S1854":Remove this useless assignment to local variable "amount".(›úºÊ8Íú«¥¶1
+Y
+java:S1854"<Remove this useless assignment to local variable "iniFloat".(Ú»¡‘8Íú«¥¶1
+Y
+java:S1854"<Remove this useless assignment to local variable "iniLong2".(þ³÷–8Íú«¥¶1
+Y
+java:S1854"<Remove this useless assignment to local variable "iniShort".(Í¢èº8Íú«¥¶1
+X
+java:S1854";Remove this useless assignment to local variable "iniLong".(ëÄØ‡8Íú«¥¶1
+[
+java:S1854">Remove this useless assignment to local variable "iniInteger".(ì”¡Ô8Íú«¥¶1
+L
+java:S1481"/Remove this unused "iniInteger" local variable.(ì”¡Ô8Îú«¥¶1
+I
+java:S1481",Remove this unused "iniLong" local variable.(ëÄØ‡8Ïú«¥¶1
+F	java:S106
+"+Replace this use of System.out by a logger.(ã¶Â68Ðú«¥¶1
+F	java:S106"+Replace this use of System.out by a logger.(ã¶Â68Ðú«¥¶1
+J
+java:S1481"-Remove this unused "iniShort" local variable.(Í¢èº8Òú«¥¶1
+J
+java:S1481"-Remove this unused "iniLong2" local variable.(þ³÷–8Óú«¥¶1
+J
+java:S1481"-Remove this unused "iniFloat" local variable.(Ú»¡‘8Óú«¥¶1
+H
+java:S1481"+Remove this unused "amount" local variable.(›úºÊ8Ôú«¥¶1

@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+O
+java:S1199	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ïàù­¶1
+F	java:S106"+Replace this use of System.out by a logger.(Ñıû8Ëêø­¶1
+L	java:S106"+Replace this use of System.out by a logger.(´ıùíıÿÿÿÿ8Ìêø­¶1
+G	java:S106"+Replace this use of System.out by a logger.(×·†±8Ìêø­¶1
+G	java:S106
+"+Replace this use of System.out by a logger.(â°‚8õàù­¶1
+G	java:S106"+Replace this use of System.out by a logger.(ŠÀŞ¾8–ú­¶1
+G	java:S106"+Replace this use of System.out by a logger.(ŠƒÄ¾8–ú­¶1

@@ -1,0 +1,24 @@
+
+l
+java:S1192	"JDefine a constant instead of duplicating this literal "Kurniawan" 3 times.(…±Éûúÿÿÿÿ8ËÆ£¦¶1
+7
+java:S1220""Move this file to a named package.8½ş¢¦¶1
+^
+java:S1854"<Remove this useless assignment to local variable "arrayInt".(·ïå†üÿÿÿÿ8Çş¢¦¶1
+^
+java:S1854"<Remove this useless assignment to local variable "namaNama".(¢µÕ‘üÿÿÿÿ8Èş¢¦¶1
+]
+java:S1854"@Remove this useless assignment to local variable "stringArray2".(ûê†Ê8Èş¢¦¶1
+L	java:S106"+Replace this use of System.out by a logger.(¯³Áœüÿÿÿÿ8Éş¢¦¶1
+G	java:S106"+Replace this use of System.out by a logger.(µª³½8Éş¢¦¶1
+L	java:S106"+Replace this use of System.out by a logger.(¥çèªüÿÿÿÿ8Êş¢¦¶1
+L	java:S106"+Replace this use of System.out by a logger.(¯³Áœüÿÿÿÿ8Êş¢¦¶1
+N
+java:S1481"1Remove this unused "stringArray2" local variable.(ûê†Ê8Ëş¢¦¶1
+O
+java:S1481"-Remove this unused "namaNama" local variable.(¢µÕ‘üÿÿÿÿ8Ëş¢¦¶1
+O
+java:S1481"-Remove this unused "arrayInt" local variable.(·ïå†üÿÿÿÿ8Ëş¢¦¶1
+L	java:S106$"+Replace this use of System.out by a logger.(§€úªüÿÿÿÿ8Ëş¢¦¶1
+L	java:S106,"+Replace this use of System.out by a logger.(ÏºŠúÿÿÿÿ8©¥¦¦¶1
+L	java:S106-"+Replace this use of System.out by a logger.(ü¥éàùÿÿÿÿ8õ¦¦¶1
