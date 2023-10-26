@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8åÃ»Î¶1
+[
+java:S1854"9Remove this useless assignment to local variable "lulus".(£ã¥ùÿÿÿÿ8‘Ä»Î¶1
+L
+java:S1481"*Remove this unused "lulus" local variable.(£ã¥ùÿÿÿÿ8’Ä»Î¶1
+G	java:S106"+Replace this use of System.out by a logger.(¨Œ’¤8”Ä»Î¶1
+L	java:S106"+Replace this use of System.out by a logger.(ê’ƒŞıÿÿÿÿ8”Ä»Î¶1
+L	java:S106"+Replace this use of System.out by a logger.(¡¸äúÿÿÿÿ8•Ä»Î¶1
+G	java:S106"+Replace this use of System.out by a logger.(ïÓ÷à8•Ä»Î¶1
+L	java:S106"+Replace this use of System.out by a logger.(ıø°­ıÿÿÿÿ8•Ä»Î¶1
+F	java:S106"+Replace this use of System.out by a logger.( ï’]8—Ä»Î¶1
+L	java:S106"+Replace this use of System.out by a logger.(Şñ¯ıÿÿÿÿ8–ı¼Î¶1
